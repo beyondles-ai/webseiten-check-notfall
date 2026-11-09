@@ -7,6 +7,6 @@ Die Seite prüft eine beliebige Webadresse: Ist alles da? Ist sie sauber aufgeba
 
 - `AUFTRAG.md`: der Auftrag von der Bühne, wörtlich.
 - `CLAUDE.md`: die Regeln, an die sich die KI beim Bau hält.
-- `docs/index.html`: die fertige Anwendung, online unter https://beyondles-ai.github.io/webseiten-check/
+- `docs/index.html`: die fertige Anwendung, online unter https://webseiten-check.beyondles.ai/
 
 Gebaut von Beyondles, https://beyondles.ai
